@@ -1,43 +1,45 @@
-This is a dynamic terminal-style portfolio inspired by ForrestKnight's creative work. You can check it out live at 0skek.vercel.app.
+# Terminal Portfolio
 
-Features
+This is a dynamic terminal-style portfolio inspired by ForrestKnight's creative work. You can check it out live at [0skek.vercel.app](https://0skek.vercel.app).
 
-Command-line Interface: Explore the portfolio interactively as if navigating a real terminal.
+## Features
 
-Custom Commands: A set of unique commands that reveal different sections such as About, Projects, Contact, etc.
+- **Command-line Interface**: Explore the portfolio interactively as if navigating a real terminal.
+- **Custom Commands**: A set of unique commands that reveal different sections such as About, Projects, Contact, etc.
+- **Responsive Design**: Works seamlessly across desktops and mobile devices.
+- **Simplicity**: Made as simple as possible using only essential technologies.
 
-Responsive Design: Works seamlessly across desktops and mobile devices.
+## How to Use
 
-Simplicity: Made as simple as possible using only essential technologies.
+1. Open the portfolio link in your browser: [0skek.vercel.app](https://0skek.vercel.app).
+2. Type `help` to see a list of available commands.
+3. Explore the various commands to learn more about me, my work, and how to contact me.
 
-How to Use
-
-Open the portfolio link in your browser: 0skek.vercel.app.
-
-Type help to see a list of available commands.
-
-Explore the various commands to learn more about me, my work, and how to contact me.
-
-Installation and Setup (For Developers)
+## Installation and Setup (For Developers)
 
 If you'd like to clone or customize this project, follow the steps below:
 
-Clone the repository:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/terminal-portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd terminal-portfolio
+   ```
+3. Open the `index.html` file in your browser to view the app locally.
 
-git clone https://github.com/<your-username>/terminal-portfolio.git
+## Technologies Used
 
-Navigate to the project directory:
+- **Frontend**: HTML, CSS, JavaScript
+- **Hosting**: Vercel
 
-cd terminal-portfolio
-
-Open the index.html file in your browser to view the app locally.
-
-Technologies Used
-
-Frontend: HTML, CSS, JavaScript
-
-Hosting: Vercel
-
-Contributions
+## Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to fork this repository and make it your own.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
